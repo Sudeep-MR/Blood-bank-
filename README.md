@@ -1,0 +1,3 @@
+Blood Bank Management System 
+Technology Stack: Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap 
+Description: Developed a Blood Bank Management System using Django to streamline blood donation, storage, and distribution. The system facilitates donor registration, blood inventory management, and request processing. It enables hospitals and patients to search for available blood units based on type and location. The platform includes user authentication, an admin dashboard for managing blood stock, and automated notifications for donors and recipients. Integrated CRUD operations for seamless data management and ensured security with role-based access control.
